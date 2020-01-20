@@ -364,7 +364,7 @@ if __name__ == "__main__":
     file = []
     comp=0
     Previous_Decision = []
-    Exp_Time = 10000
+    Exp_Time = 10000   #Stopping time
 
     Attacks = []
     Divergences = []
