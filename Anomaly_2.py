@@ -1,5 +1,6 @@
 import sys
 import argparse
+import os
 try:
     from scapy import *
     from scapy.all import *
